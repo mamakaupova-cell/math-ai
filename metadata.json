@@ -1,0 +1,8 @@
+{
+  "name": "Remix Math AI-QMZh",
+  "description": "Қазақстандық мұғалімдерге арналған кәсіби математикалық сабақ жоспарларын автоматты түрде құратын және жүктейтін озық веб-платформа.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
